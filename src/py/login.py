@@ -4,7 +4,7 @@ import mysql.connector
 
 print("Content-Type: text/html")
 print()
-conn = mysql.connector.connect(user='', password='', host='', database='travelday')
+conn = mysql.connector.connect(user='', password='', host='github', database='travelday')
 curr = conn.cursor()
 
 form =  cgi.FieldStorage()
