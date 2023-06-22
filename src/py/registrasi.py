@@ -20,7 +20,7 @@ conn.commit()
 
 curr.close()
 conn.close()
-print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/index.php'>")
+print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/index.html'>")
 print()  
 
 

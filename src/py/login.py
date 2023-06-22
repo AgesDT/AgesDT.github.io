@@ -20,7 +20,7 @@ if count > 0:
     row = curr.fetchone()
     curr.close()
     conn.close()
-    print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/src/home.php'>")
+    print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/src/home.html'>")
     print()
 else:
 
