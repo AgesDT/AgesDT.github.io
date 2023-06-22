@@ -1,0 +1,29 @@
+form{
+    top: 400px;
+    left: 40%; right: auto;
+    width: 327px;
+    height: 60px;
+    display: grid;
+    column-gap: 50px;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    row-gap: 10px;
+}
+  
+img{
+    top: 5%; down: auto;
+    left: 33%; right: auto;
+    color: rgba(0, 0, 0, 1);
+    width: 30%;
+    height: auto;
+    position: absolute;
+}
+input{
+    width: 100%;
+}
+
+.reg{
+    color: black;
+    margin: auto;
+}

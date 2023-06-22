@@ -1,0 +1,117 @@
+.e84_267 { 
+	width:518px;
+	height:115px;
+	position:absolute;
+	left:815px;
+	top:324px;
+
+}
+.e80_215 { 
+	width:518px;
+	height:115px;
+	position:absolute;
+	top:0px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+
+}
+.e80_216 { 
+	box-shadow:0px 0px 5px rgba(0, 0, 0, 0.20000000298023224);
+	background-color:rgba(255, 255, 255, 1);
+	width:518px;
+	height:115px;
+	position:absolute;
+	left:-190px;
+	top:0px;
+	border-top-left-radius:14px;
+	border-top-right-radius:14px;
+	border-bottom-left-radius:14px;
+	border-bottom-right-radius:14px;
+}
+.e80_217 { 
+	color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	width:239px;
+	height:36px;
+	position:absolute;
+	left:-30px;
+	top:20px;
+	font-family:Montserrat;
+	font-size:26px;
+	letter-spacing:0.30000001192092896;
+
+}
+.e82_142 { 
+	color:rgba(0, 0, 0, 1);
+	width:545px;
+	height:126px;
+	position:absolute;
+	left:36%;
+	top:5%;
+	font-family:Inter;
+	text-align:center;
+	font-size:70px;
+	letter-spacing:0;
+}
+.e84_267 { 
+	width:518px;
+	height:115px;
+	position:absolute;
+	left:815px;
+	top:324px;
+}
+nav{
+	width: fit-content;
+	height: 50px;
+}
+.e33_1824 { 
+	width:41px;
+	height:42px;
+	position:absolute;
+	left:19px;
+	top:20px;
+	
+}
+.e33_1825 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e33_1826 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:-2.2737367544323206e-13px;
+}
+.e33_1827 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:-9.094947017729282e-13px;
+	top:22.5px;
+}
+.e33_1828 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:22.5px;
+}
+.logout { 
+	color:rgba(0, 0, 0, 1);
+	position:absolute;
+	right:19px;
+	top:20px;
+	font-family:Inter;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+}

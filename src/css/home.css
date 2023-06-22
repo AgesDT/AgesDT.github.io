@@ -1,0 +1,227 @@
+
+.e82_142 { 
+	color:rgba(0, 0, 0, 1);
+	width:545px;
+	height:126px;
+	position:absolute;
+	left:36%;
+	top:5%;
+	font-family:Inter;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}
+.e84_154 { 
+	color:rgba(107.00000122189522, 132.0000073313713, 127.00000002980232, 1);
+	width:714px;
+	height:682px;
+	position:absolute;
+	left:47%;
+	top:20%;
+	font-family:Abril Fatface;
+	text-align:left;
+	font-size:45px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}
+.contents {
+	width:50%;
+	height:75%;
+	position:absolute;
+	left:25%;
+	top:33%;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
+}
+.labuanBajo { 
+	width:675px;
+	height:218px;
+	position:absolute;
+	left: 30%;
+	top: 10px;
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+.e84_151 { 
+	width:210px;
+	height:159px;
+	position:absolute;
+	left:229px;
+	top:0px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	background-image:url(external/figmaHome/images/LabuanBajo.png);
+	background-size:cover;
+}
+.e84_156 { 
+	color:rgba(71.00000336766243, 105.00000134110451, 85.0000025331974, 1);
+	width:675px;
+	height:22px;
+	position:absolute;
+	left:1px;
+	top:65%;
+	font-family:Abril Fatface;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}
+.inggris { 
+	width:675px;
+	height:218px;
+	position:relative;
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.e84_153 { 
+	width:210px;
+	height:159px;
+	position:absolute;
+	left:229px;
+	top:0px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	background-image:url(external/figmaHome/images/inggris.png);
+	background-size:cover;
+}
+.e84_155 { 
+	color:rgba(71.00000336766243, 105.00000134110451, 85.0000025331974, 1);
+	width:675px;
+	height:22px;
+	position:absolute;
+	left:1px;
+	top:65%;
+	font-family:Abril Fatface;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}
+.details { 
+	width:230px;
+	height:205px;
+	position:absolute;
+	left:141px;
+	top:60%;
+	
+}
+.e2_28 { 
+	color:rgba(0, 0, 0, 1);
+	width:230px;
+	height:29px;
+	position:absolute;
+	left:0px;
+	top:176px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e84_204 { 
+	width:169px;
+	height:175px;
+	position:absolute;
+	background-image:url(external/figmaHome/images/Details.png);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:60%;
+	top:14%;
+	left:13%;
+}
+
+.contacts { 
+	width:230px;
+	height:205px;
+	position:absolute;
+	left:141px;
+	top:30%;
+}
+.e2_30 { 
+	color:rgba(0, 0, 0, 1);
+	width:230px;
+	height:29px;
+	position:absolute;
+	left:0px;
+	top:176px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+	
+}
+.e28_308 { 
+	width:169px;
+	height:175px;
+	position:absolute;
+	background-image:url(external/figmaHome/images/Contacts.png);
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	top:2%;
+	left:13%;
+
+}
+
+nav{
+	width: fit-content;
+	height: 50px;
+}
+.e33_1824 { 
+	width:41px;
+	height:42px;
+	position:absolute;
+	left:19px;
+	top:20px;
+	
+}
+.e33_1825 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e33_1826 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:-2.2737367544323206e-13px;
+}
+.e33_1827 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:-9.094947017729282e-13px;
+	top:22.5px;
+}
+.e33_1828 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:22.5px;
+}
+.logout { 
+	color:rgba(0, 0, 0, 1);
+	position:absolute;
+	right:19px;
+	top:20px;
+	font-family:Inter;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+}
+

@@ -1,0 +1,548 @@
+.2_20 { 
+	overflow:hidden;
+}.e2_20 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e80_172 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:442px;
+	height:494px;
+	position:absolute;
+	left:917px;
+	top:139px;
+}.e24_127 { 
+	width:41px;
+	height:42px;
+	position:absolute;
+	left:19px;
+	top:20px;
+}.e24_128 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e24_129 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:-2.2737367544323206e-13px;
+}.e24_130 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:-9.094947017729282e-13px;
+	top:22.5px;
+}.e24_131 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:19.035715103149414px;
+	height:19.5px;
+	position:absolute;
+	left:21.964284896850586px;
+	top:22.5px;
+}.e33_1813 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(0, 0, 0, 1);
+	width:180px;
+	height:21px;
+	position:absolute;
+	left:924px;
+	top:163px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e41_353 { 
+	color:rgba(0, 0, 0, 1);
+	width:104px;
+	height:21px;
+	position:absolute;
+	left:945px;
+	top:208px;
+	font-family:Inter;
+	text-align:center;
+	font-size:25px;
+	letter-spacing:0;
+}.e41_354 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(0, 0, 0, 1);
+	width:162px;
+	height:21px;
+	position:absolute;
+	left:924px;
+	top:266px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e41_360 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(0, 0, 0, 1);
+	width:345px;
+	height:21px;
+	position:absolute;
+	left:924px;
+	top:430px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e41_355 { 
+	color:rgba(0, 0, 0, 1);
+	width:59px;
+	height:22px;
+	position:absolute;
+	left:947px;
+	top:319px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e41_356 { 
+	color:rgba(0, 0, 0, 1);
+	width:164px;
+	height:22px;
+	position:absolute;
+	left:1020px;
+	top:319px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.e80_214 { 
+	color:rgba(0, 0, 0, 1);
+	width:164px;
+	height:22px;
+	position:absolute;
+	left:982px;
+	top:386px;
+	font-family:Inter;
+	text-align:center;
+	font-size:25px;
+	letter-spacing:0;
+}.e41_358 { 
+	color:rgba(0, 0, 0, 1);
+	width:272px;
+	height:22px;
+	position:absolute;
+	left:997px;
+	top:355px;
+	font-family:Inter;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}.e41_359 { 
+	border-radius:500px;
+	background-color:rgba(0, 0, 0, 1);
+	width:10px;
+	height:7px;
+	position:absolute;
+	left:1009px;
+	top:360px;
+}.e84_266 { 
+	border-radius:500px;
+	background-color:rgba(0, 0, 0, 1);
+	width:10px;
+	height:7px;
+	position:absolute;
+	left:1009px;
+	top:391px;
+}.e41_362 { 
+	color:rgba(0, 0, 0, 1);
+	width:411px;
+	height:47px;
+	position:absolute;
+	left:956px;
+	top:472px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0;
+}.e80_139 { 
+	width:105px;
+	height:30px;
+	position:absolute;
+	left:149px;
+	top:82px;
+	background-image:url(images/image_6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_140 { 
+	box-shadow:2px 2px 3px rgba(0, 0, 0, 0.25);
+	background-color:rgba(107.00000122189522, 132.0000073313713, 127.00000002980232, 1);
+	width:412px;
+	height:39px;
+	position:absolute;
+	left:254px;
+	top:890px;
+	border-top-left-radius:26px;
+	border-top-right-radius:26px;
+	border-bottom-left-radius:26px;
+	border-bottom-right-radius:26px;
+}.e80_141 { 
+	color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	width:251px;
+	height:67px;
+	position:absolute;
+	left:333px;
+	top:890px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:14px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_142 { 
+	color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	width:480px;
+	height:35px;
+	position:absolute;
+	left:315px;
+	top:100px;
+	font-family:Montserrat;
+	text-align:justified;
+	font-size:40px;
+	letter-spacing:0.30000001192092896;
+	line-height:px;
+}.e80_143 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:273px;
+	top:188px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_143 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_144 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(8.846798334270716, 36.821027398109436, 58.4375012665987, 1);
+	width:116px;
+	height:45px;
+	position:absolute;
+	left:276px;
+	top:143px;
+	font-family:Montserrat;
+	text-align:center;
+	font-size:12px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_145 { 
+	width:77px;
+	height:22px;
+	position:absolute;
+	left:294px;
+	top:200px;
+	background-image:url(images/1280px_bank_central_asia_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_146 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:49px;
+	position:absolute;
+	left:272px;
+	top:319px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_146 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_147 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:272px;
+	top:379px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_147 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_148 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:377px;
+	height:48px;
+	position:absolute;
+	left:275px;
+	top:499px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_148 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_149 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:272px;
+	top:439px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_149 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_150 { 
+	width:106px;
+	height:35px;
+	position:absolute;
+	left:294px;
+	top:324px;
+	background-image:url(images/logo_bank_mandiri_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_151 { 
+	width:4px;
+	height:18px;
+	position:absolute;
+	left:398px;
+	top:229px;
+}.e80_152 { 
+	width:2px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e80_153 { 
+	width:86px;
+	height:22px;
+	position:absolute;
+	left:296px;
+	top:393px;
+	background-image:url(images/image_15.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_154 { 
+	width:116px;
+	height:29px;
+	position:absolute;
+	left:293px;
+	top:447px;
+	background-image:url(images/bri_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_155 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:271px;
+	top:592px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_155 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_156 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:49px;
+	position:absolute;
+	left:271px;
+	top:774px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_156 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_157 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:271px;
+	top:834px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_157 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_158 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(8.846798334270716, 36.821027398109436, 58.4375012665987, 1);
+	width:175px;
+	height:45px;
+	position:absolute;
+	left:275px;
+	top:547px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_159 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:379px;
+	height:48px;
+	position:absolute;
+	left:271px;
+	top:652px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_159 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_160 { 
+	background-color:rgba(26.000000350177288, 48.000000938773155, 65.0000037252903, 1);
+	opacity:0.10999999940395355;
+	width:377px;
+	height:48px;
+	position:absolute;
+	left:275px;
+	top:715px;
+	border-top-left-radius:17px;
+	border-top-right-radius:17px;
+	border-bottom-left-radius:17px;
+	border-bottom-right-radius:17px;
+}.80_160 { 
+	border:1px solid rgba(0, 0, 0, 1);
+}.e80_161 { 
+	width:126px;
+	height:36px;
+	position:absolute;
+	left:291px;
+	top:722px;
+	background-image:url(images/image_17.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_162 { 
+	width:4px;
+	height:19px;
+	position:absolute;
+	left:396px;
+	top:633px;
+}.e80_163 { 
+	width:2px;
+	height:12px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e80_164 { 
+	width:62px;
+	height:44px;
+	position:absolute;
+	left:292px;
+	top:499px;
+	background-image:url(images/logo_bank_mega_jpeg_1_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_165 { 
+	width:328px;
+	height:88px;
+	position:absolute;
+	left:192px;
+	top:628px;
+	background-image:url(images/image_18.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_166 { 
+	width:82px;
+	height:34px;
+	position:absolute;
+	left:296px;
+	top:599px;
+	background-image:url(images/image_20.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_167 { 
+	width:95px;
+	height:25px;
+	position:absolute;
+	left:293px;
+	top:787px;
+	background-image:url(images/image_19.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_168 { 
+	width:98px;
+	height:35px;
+	position:absolute;
+	left:290px;
+	top:842px;
+	background-image:url(images/alfamart_logo_baru_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e80_169 { 
+	color:rgba(0, 0, 0, 1);
+	width:118px;
+	height:40px;
+	position:absolute;
+	left:279px;
+	top:229px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_171 { 
+	color:rgba(161.49999797344208, 161.49999797344208, 161.49999797344208, 1);
+	width:199px;
+	height:40px;
+	position:absolute;
+	left:339px;
+	top:283px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_170 { 
+	color:rgba(0, 0, 0, 1);
+	width:197px;
+	height:40px;
+	position:absolute;
+	left:338px;
+	top:259px;
+	font-family:Montserrat;
+	text-align:left;
+	font-size:25px;
+	letter-spacing:0.10000000149011612;
+	line-height:px;
+}.e80_173 { 
+	color:rgba(230.56249290704727, 16.331508457660675, 16.331508457660675, 1);
+	width:202px;
+	height:36px;
+	position:absolute;
+	left:924px;
+	top:563px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}.e114_133 { 
+	width:304px;
+	height:157px;
+	position:absolute;
+	left:1179px;
+	top:-17px;
+	background-image:url(images/dau_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
