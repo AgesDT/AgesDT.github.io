@@ -10,7 +10,7 @@
     <span class="e41_219">Labuan Bajo</span>
 
     <nav class="navbar">
-        <a href="home.html"><div class=e33_1824>
+        <a href="home.php"><div class=e33_1824>
             <div class="e33_1825"></div>
             <div class="e33_1826"></div>
             <div class="e33_1827"></div>
@@ -47,6 +47,7 @@
         <div class="day3">Day 3</div>
         <div class="e41_232">Consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam</div>
     </div>
-    <a href="info.html"><input type="button" class="e41_239" value="Book Trip"></a>
+    
+    <a href="info_2.php"><input type="button" class="e41_239" value="Book Trip"></a>
 </body>
 </html>

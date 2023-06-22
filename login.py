@@ -17,6 +17,9 @@ curr.execute("SELECT COUNT(*) FROM registrasi_user WHERE Email = %s AND Pass = %
 count = curr.fetchone()[0]
 
 if count > 0:
+    curr.execute("SELECT Id_user FROM registrasi_user WHERE Email = %s AND Pass = %s", (email, password))
+    row = curr.fetchone()
+    _IDUSER = row[0]
     print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/src/home.php'>")
     print()
 else:

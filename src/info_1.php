@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="home.html"><div class=e33_1824>
+        <a href="home.php"><div class=e33_1824>
             <div class="e33_1825"></div>
             <div class="e33_1826"></div>
             <div class="e33_1827"></div>
@@ -19,7 +19,7 @@
     <span class="e41_219">Guest Informations</span>
 
     <div class="container">
-        <form action="index.php" method="post">
+        <form action="book_1.py" method="post">
             <div class="form-group">
             <label for="name">Name*<br></label>
             <input
@@ -31,19 +31,9 @@
             </div>
 
             <div class="form-group">
-            <label for="pax">Pax*<br></label>
-            <input
-                type="number"
-                class="form-control"
-                id="pax"
-                name="pax"
-            />
-            </div>
-
-            <div class="form-group">
                 <label for="id">ID Number (KTP/Passport)*<br></label>
                 <input
-                    type="number"
+                    type="text"
                     class="form-control"
                     id="id"
                     name="id"
@@ -55,33 +45,33 @@
                 <input
                     type="text"
                     class="form-control"
-                    id="name"
-                    name="name"
+                    id="email"
+                    name="email"
                 />
             </div>
 
             <div class="form-group">
-                <label for="name">Nationality*<br></label>
+                <label for="nat">Nationality*<br></label>
                 <input
                     type="text"
                     class="form-control"
-                    id="name"
-                    name="name"
+                    id="nat"
+                    name="nat"
                 />
             </div>
             <div class="form-group">
-                <label for="id">Phone Number*<br></label>
+                <label for="no_telp">Phone Number*<br></label>
                 <input
-                    type="number"
+                    type="text"
                     class="form-control"
                     id="no_telp"
                     name="no_telp"
                 />
             </div>
             <div class="form-group">
-                <label for="id">Country Code*<br></label>
+                <label for="cCode">Country Code*<br></label>
                 <input
-                    type="number"
+                    type="text"
                     class="form-control"
                     id="cCode"
                     name="cCode"
@@ -89,7 +79,7 @@
             </div>
             <br>
 
-            <a href="payment.html"><input type="button" class="btn-primary" value="Proceed to Payment" /></a>
+            <input type="submit" class="btn-primary" value="Proceed to Payment" />
         </form> 
       </div>
 </body>
