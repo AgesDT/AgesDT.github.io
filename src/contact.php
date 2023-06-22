@@ -9,7 +9,7 @@
 <body>
     <span class="e82_142">Contact List</span>
     <nav class="navbar">
-        <a href="home.html"><div class=e33_1824>
+        <a href="home.php"><div class=e33_1824>
             <div class="e33_1825"></div>
             <div class="e33_1826"></div>
             <div class="e33_1827"></div>

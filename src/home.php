@@ -17,7 +17,7 @@
             <div class="e33_1827"></div>
             <div class="e33_1828"></div>
         </div></a>
-        <a href="index.php"><span class="logout">Logout</span></a>
+        <a href="../index.php"><span class="logout">Logout</span></a>
     </nav>
     <a href="contact.php"><div class="contacts">
         <span class="e2_30"> Contact Your Agent</span>

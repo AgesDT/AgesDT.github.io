@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/schedule.css">
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
     <title>Pemesanan</title>
 </head>
 <body>
     <span class="e41_219">Detail Pemesanan</span>
 
     <nav class="navbar">
-        <a href="home.html"><div class=e33_1824>
+        <a href="home.php"><div class=e33_1824>
             <div class="e33_1825"></div>
             <div class="e33_1826"></div>
             <div class="e33_1827"></div>
@@ -20,7 +22,7 @@
     </nav> 
 
     <span  class="e41_334">Mr/Mrs</span>
-    <span  class="e41_335">Izza Fanna Pram</span>
+    <span  class="e41_335" id="name">Agestia</span>
     <span  class="e41_344">Jenis pembayaran</span>
     <span  class="e41_346">Status pembayaran</span>
     <span  class="e41_345">BCA Transfer</span>
@@ -28,11 +30,25 @@
     <span  class="e41_338">Date Book</span>
     <span  class="e41_339">3 Jul</span>
     <span  class="e41_341">No. Book</span>
-    <span  class="e41_342">25Q6T</span>
+    <span  class="e41_342"id="noBook">D1234</span>
     <div class="e41_347"></div><span  class="e41_348">Lunas</span>
-    <!-- <div class="e41_349"></div><span  class="e41_350">Refund</span>
-    <div class="e41_351"></div><span  class="e41_352">Reschedule</span> -->
-    <!-- <span  class="e49_138">*Refund hanya dapat dilakukan H-7 sebelum trip</span> -->
     <div class="e114_137"></div>
+
+    <!-- <py-script>
+        #!C:/Users/Ages/AppData/Local/Programs/Python/Python39/python
+        import cgi
+        import mysql.connector
+
+        conn = mysql.connector.connect(user='root', password='', host='localhost', database='travelday')
+        curr = conn.cursor()
+
+        curr.execute("SELECT Name_guest FROM guest_information")
+        row = cursor.fetchone()
+        pyscript.write('name', row);
+
+        curr.close()
+        conn.close()
+    </py-script> -->
+    
 </body>
 </html>

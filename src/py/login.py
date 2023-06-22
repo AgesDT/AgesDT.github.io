@@ -1,6 +1,5 @@
 #!C:/Users/Ages/AppData/Local/Programs/Python/Python39/python
 import cgi
-import sys
 import mysql.connector
 
 print("Content-Type: text/html")
@@ -19,17 +18,17 @@ count = curr.fetchone()[0]
 if count > 0:
     curr.execute("SELECT Id_user FROM registrasi_user WHERE Email = %s AND Pass = %s", (email, password))
     row = curr.fetchone()
-    _IDUSER = row[0]
+    curr.close()
+    conn.close()
     print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/src/home.php'>")
     print()
 else:
+
+    curr.close()
+    conn.close()
     print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/index.php'>")
     print()
 
-sys.exit()
-
-curr.close()
-conn.close()
 
 
 

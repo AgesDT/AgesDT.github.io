@@ -25,6 +25,7 @@
     <div class="e80_169">No Virtual Account</div>
     <div class="e80_170">120 1238490829</div>
     <div class="e80_171">Hanya menerima dari bank BCA</div>
-    <a href="schedule.html"><input type="button" class="btn-primary" value="Finish Payment" /></a>
+    <a href="schedule.php"><input type="button" class="btn-primary" value="Finish Payment" /></a>
+
 </body>
 </html>

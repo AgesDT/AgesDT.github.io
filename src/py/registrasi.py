@@ -1,6 +1,5 @@
 #!C:/Users/Ages/AppData/Local/Programs/Python/Python39/python
 import cgi
-import sys
 import mysql.connector
 import uuid
 
@@ -19,13 +18,12 @@ noTelp = form.getvalue('noTelp')
 curr.execute("insert into registrasi_user values(%s, %s, %s, %s)", (idStr, noTelp, email, password))
 conn.commit()
 
+curr.close()
+conn.close()
 print("<meta http-equiv='refresh' content='1;url=http://localhost/projects/TravelDay/TravelDay/index.php'>")
 print()  
 
-sys.exit()
 
-curr.close()
-conn.close()
 
 
 

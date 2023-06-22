@@ -19,7 +19,7 @@
     <span class="e41_219">Guest Informations</span>
 
     <div class="container">
-        <form action="book.py" method="post">
+        <form action="book_2.py" method="post">
             <div class="form-group">
             <label for="name">Name*<br></label>
             <input
@@ -79,7 +79,7 @@
             </div>
             <br>
 
-            <a href="payment.html"><input type="button" class="btn-primary" value="Proceed to Payment" /></a>
+            <input type="submit" class="btn-primary" value="Proceed to Payment" />
         </form> 
       </div>
 </body>
