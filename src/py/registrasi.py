@@ -5,7 +5,7 @@ import uuid
 
 print("Content-Type: text/html")
 print()
-conn = mysql.connector.connect(user='', password='', host='github', database='travelday')
+conn = mysql.connector.connect(user='root', password='', host='localhost', database='travelday')
 curr = conn.cursor()
 
 form =  cgi.FieldStorage()
